@@ -27,7 +27,7 @@ FHIR 整合了 HL7 V2,V3 和 CDA 的优点,同时利用了最新的Web标准,紧
 |-----------------|-----------------------------------------------------------------------------|-------------|
 | iSharkFly       | https://www.isharkfly.com/c/industry-software/hospital-information-system/6 | HIS 相关信息    |
 | David Hay 博客    | http://fhirblog.com/                                                        |             |
-| Ewout Kramer 博客 | https://github.com/JaneBlue/PPTpaper                                        |             |
+| Ewout Kramer 博客 | https://fire.ly/                                                            |             |
 | 硕士论文            | https://github.com/JaneBlue/PPTpaper                                        |             |
 | FHIR GitHub 参考  | https://github.com/wanghaisheng/fhir-in-action/                             |             |
 | HAPI FHIR 库源代码  | https://github.com/hapifhir/hapi-fhir                                       |             |

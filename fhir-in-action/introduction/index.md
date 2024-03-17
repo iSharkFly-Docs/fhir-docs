@@ -4,3 +4,4 @@
 主要是介绍一些FHIR 缘起的大背景，以及产业界对其唱衰唱好的各种论调。
 
 - [开发者眼中的 FHIR](/fhir-in-action/introduction/toreader.md)
+- [开放数据](/fhir-in-action/introduction/open-data-is-coming.md)
