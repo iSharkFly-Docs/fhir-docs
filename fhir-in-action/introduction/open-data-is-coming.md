@@ -293,7 +293,7 @@ represents.
 12、It does seem a bit childish to see these types of exchanges between behemoths of the industry. However, I do wonder
 why Epic would have to sign an NDA to participate in a joint effort to share and propagate openess.
 
-### 最后 Epic 投降了
+### Epic 投降了
 
 Epic CEO Judy Faulkner 在每年度最盛大HIT行业会展，也就是 2015 年的 HIMSS15 大会上宣布，直到2020年之前咱大EPIC是不会再收大伙钱了。
 
@@ -323,15 +323,17 @@ http://www.healthcareitnews.com/news/epic-latest-drop-fees-data-exchange
 Epic与IBM watson的合作 是否预示着实现互操作性的另一条路
 智能的解析各种异构的数据源中的数据 https://www.healthcareitnews.com/news/epic-watson-work-interoperability 。
 
-### API能否拯救HIT
+**API 能否拯救 HIT 的相关探讨**
+针对有关内容的探讨，我们收集了一些内容，请访问下面的链接。
 
-Jason and the Argonauts
-http://geekdoctor.blogspot.nl/2014/12/kindling-fhir.html
-http://xmlmodeling.com/2014/12/jason-argonauts/
-http://xmlmodeling.com/2014/10/jason-task-force-final-report/
-http://argonautwiki.hl7.org/index.php?title=Main_Page
-https://www.healthwise.org/blog/apps-apis-positive-step-for-patients.aspx
+* http://geekdoctor.blogspot.nl/2014/12/kindling-fhir.html
+* http://xmlmodeling.com/2014/12/jason-argonauts/
+* http://xmlmodeling.com/2014/10/jason-task-force-final-report/
+* http://argonautwiki.hl7.org/index.php?title=Main_Page
+* https://www.healthwise.org/blog/apps-apis-positive-step-for-patients.aspx
 
-### OMAHA联盟
+## 中国数据互联互通
+相对美国有关医疗系统的扯皮来看，我们国家的医疗系统起步比较晚，没有技术负担，相对美国来说，我们的医疗系统发展更加迅速和智能化。
 
+### OMAHA 联盟
 浙江数字医疗卫生技术研究院（简称“数研院”，imit）是中国首家致力于数字与信息化技术在医疗卫生健康服务领域研发与应用的专业性非营利研究机构（NPO/NGO）。
