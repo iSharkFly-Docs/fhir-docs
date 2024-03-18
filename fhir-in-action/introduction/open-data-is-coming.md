@@ -1,9 +1,15 @@
 # 开放数据专题
+有关医疗数据的开放标准的口水战和讨论早就开始了，这是因为美国方面的医疗病历数据主要掌握在 EPIC 的手上。
+很多医院和医疗机构都在使用 EPIC 的产品，但 EPIC 的产品线又非常封闭，导致医疗机构之间的数据通信和交换都非常困难。
 
-* 立法推动usa 政府放开更多数据
-* epic和CommonWell之争
-* API能否拯救HIT
-* HIT OpenAPI之面面观
+这个页面中的主要内容都在说 EPIC 和 CommonWell 口水战。
+
+这场口水战的主要起因还是有关国会的医疗预算，同时要求 ONC 能够解决医疗系统的数据互联互通问题。EPIC 当然是不愿意放弃这块的。
+
+当我们现在再次重温这篇页面中的内容的时候已经是 2024 年了。现在来看在互联互通上已经有了很大的进展。
+
+相对美国有关医疗系统的扯皮来看，我们国家的医疗系统起步比较晚，没有技术负担，相对美国来说，我们的医疗系统发展更加迅速和智能化。
+但也面临不少问题，其实也是标准化的互联互通问题，相信随着 FHIR 的标准的持续推进，在后续的互联互通难度应该是在逐步下降的。
 
 ## 立法进一步推动美国联邦政府开放更多数据
 
@@ -216,10 +222,11 @@ We are committed to openness and transparency," the statement read. "Accordingly
 
 125万美元annual subscription fee和 $50,000 to $90,000 in annual membership dues 。
 
-周三晚上 就是3.18日 athenahealth CEO Jonathan Bush在twitter上对Epic CEO Judith Faulkner 进行了高调嘲讽
-![](bb-epic-ceo.png)
+就是 2015-03-18 日 athenahealth CEO Jonathan Bush 在 twitter上对 Epic 的 CEO Judith R. Faulkner 进行了高调嘲讽。
 
-Cerner. 行业老二也发话了
+![](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/2X/7/725691b8b156724972a47cbbb29dbffc36172ec6.jpeg)
+
+Cerner —— 行业老二也发话了
 
 ```
 His "rhetoric is a slap in the face to many parties working to advance interoperability," according to a statement released by Cerner officials shortly after the committee hearing. "It was discouraging to hear more potshots and false statements when it's clear there is real work to be done. We're committed to CommonWell as a practical, market-led way to achieve meaningful interoperability
@@ -229,6 +236,7 @@ His "rhetoric is a slap in the face to many parties working to advance interoper
 
 ```
 At that HIMSS13 announcement, athenahealth CEO Jonathan Bush 说 大家都可以加入哟
+
 emphasized that anyone was invited to CommonWell – even a vendor of "epic proportions."
 
 In a subsequent interview, Healthcare IT News asked McKesson CEO John Hammergren whether that invitation was dangled only because the founding companies suspected Epic wouldn't bite.
@@ -285,10 +293,11 @@ represents.
 12、It does seem a bit childish to see these types of exchanges between behemoths of the industry. However, I do wonder
 why Epic would have to sign an NDA to participate in a joint effort to share and propagate openess.
 
-### 后续报道 Epic 投降了
+### 最后 Epic 投降了
 
-Epic CEO Judy Faulkner 在每年度最盛大HIT行业会展，也就是2015年的HIMSS15大会上宣布，直到2020年之前
-咱大EPIC是不会再收大伙钱了。其实athenahealth和Cerner这俩货也是不久之前宣布他们也不收费。
+Epic CEO Judy Faulkner 在每年度最盛大HIT行业会展，也就是 2015 年的 HIMSS15 大会上宣布，直到2020年之前咱大EPIC是不会再收大伙钱了。
+
+其实athenahealth和Cerner这俩货也是不久之前宣布他们也不收费。
 
 https://www.healthcareitnews.com/news/epic-latest-drop-fees-data-exchange#:~:text=%2Dbased%20health%20IT%20giant%20Epic,the%20Milwaukee%20Business%20Journal%20reports.
 
